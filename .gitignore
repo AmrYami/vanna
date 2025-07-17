@@ -17,4 +17,3 @@ dist
 htmlcov
 chroma.sqlite3
 *.bin
-.coverage.*
